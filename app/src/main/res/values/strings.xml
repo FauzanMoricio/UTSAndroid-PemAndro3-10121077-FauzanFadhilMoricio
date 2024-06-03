@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTSAndroid-PemAndro3-10121077-FauzanFadhilMoricio</string>
+    <string name="form">Form Pengisian Data</string>
+    <string name="pcr">PCR</string>
+    <string name="checkbox">Dengan ini saya menyetujui bahwa data yang saya isikan adalah benar</string>
+    <string name="jenis_tes">Jenis Tes -</string>
+    <string name="harus_diisi">Harus Diisi</string>
+    <string name="tanggal_terkonfirmasi">Tanggal Terkonfirmasi -</string>
+    <string name="nama">Nama -</string>
+    <string name="tanggal_lahir">Tanggal Lahir -</string>
+    <string name="jenis_kelamin">Jenis Kelamin -</string>
+    <string name="hubungan_dengan_anda">Hubungan Dengan Anda -</string>
+    <string name="cek_kembali_isian_data">Cek Kembali Isian Data</string>
+</resources>

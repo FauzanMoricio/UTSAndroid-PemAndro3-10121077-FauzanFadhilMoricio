@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    10121077-->
+<!--    FauzanFadhilMoricio-->
+<!--    PemAndro3 (IF2)-->
+<!--    03/06/2024-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/dialogImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/group_993"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="Image" />
+
+    <Button
+        android:id="@+id/buttonOk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/hijau"
+        android:text="OK" />
+</LinearLayout>
